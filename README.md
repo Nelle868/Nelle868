@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nelle868
-- 👀 I’m interested in ... programming 
-- 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... C++ projects 
+- 👀 I’m interested in ... programming and learning
+- 🌱 I’m currently learning ... Java and HLA Assembly Language 
+- 💞️ I’m looking to collaborate on ... C++ or Java projects 
 - 📫 How to reach me ... discord - Nelle#6839
 
 <!---
