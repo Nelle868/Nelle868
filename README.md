@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nelle868
 - 👀 I’m interested in ... programming and learning
-- 🌱 I’m currently learning ... Java and HLA Assembly Language   
-- 💞️ I’m looking to collaborate on ... C++ or Java projects 
+- 🌱 I’m currently learning ... Java and Python  
+- 💞️ I’m looking to collaborate on ... C++, Java, or Python projects 
 - 📫 How to reach me ... discord - orijanelle
 
 <!---
