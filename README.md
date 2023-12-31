@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nelle868
+- 👋 Hi, I’m Janelle - @Nelle868
 - 👀 I’m interested in ... programming and learning
 - 🌱 I’m currently learning ... Java and Python  
-- 💞️ I’m looking to collaborate on ... C++, Java, or Python projects 
+- 💞️ I’m looking to collaborate on ... C++, Java, Python, or other Data Science projects 
 - 📫 How to reach me ... discord - orijanelle
 
 <!---
