@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Janelle - @Nelle868
 - 👀 I’m interested in ... programming, projects, and networking
 - 🌱 I’m currently a student at UC Berkeley 
-- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/janellesampson/) or janelle.sampson@berkeley.edu
+- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/janellesampson/).
 
 <!---
 Nelle868/Nelle868 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
