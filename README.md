@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Janelle - @Nelle868
 - 👀 I’m interested in ... programming, projects, and networking
-- 🌱 I’m currently a student at UC Berkeley 
+- 🌱 I’m currently a student at UC Berkeley studying Data Science and Computer Science
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/janellesampson/)
 
 <!---
