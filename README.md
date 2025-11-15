@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Janelle - @Nelle868
-- 👀 I’m interested in ... programming and learning
-- 🌱 I’m currently advancing my skills in ... Java and Python  
-- 💞️ I’m looking to collaborate on ... C++, Java, Python, or other Data Science/Programming projects 
-- 📫 How to reach me ... discord - orijanelle
+- 👀 I’m interested in ... programming, projects, and networking
+- 🌱 I’m currently a student at UC Berkeley 
+- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/janellesampson/) or janelle.sampson@berkeley.edu
 
 <!---
 Nelle868/Nelle868 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
